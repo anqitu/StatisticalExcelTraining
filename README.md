@@ -1,5 +1,5 @@
 # Statistical Data Analysis Training with Excel
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Statistical Data Analysis Training with Excel]https://www.tertiarycourses.com.sg/statistical-data-analysis-training-with-excel-in-singapore.html) course. 
 
