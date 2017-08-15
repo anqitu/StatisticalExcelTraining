@@ -6,6 +6,7 @@ These are the exercise files used for [Statistical Data Analysis Training with E
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/statistical-data-analysis-training-with-excel-in-singapore.html
+https://www.tertiarycourses.com.my/statistical-data-analysis-training-with-excel-in-malaysia.html
 
 <p><strong>Module 1: Get Started ....</strong></p>
 <ul>
